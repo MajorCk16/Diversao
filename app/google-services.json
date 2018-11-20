@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "22954481474",
+    "firebase_url": "https://fun101-27d6c.firebaseio.com",
+    "project_id": "fun101-27d6c",
+    "storage_bucket": "fun101-27d6c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:22954481474:android:16d82831e8679c2c",
+        "android_client_info": {
+          "package_name": "com.example.younglings.diversao"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "22954481474-4nl86q2i8ht2n28ac4j3vedpfe921gdg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.younglings.diversao",
+            "certificate_hash": "d347d4afc27a6dae161c62a8080de15273237fef"
+          }
+        },
+        {
+          "client_id": "22954481474-4ms9ovnso2i99gugmi42nnv2th2abn49.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlG_GS4kYtry6Af0eojMvdfIn_xyqp0Ho"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "22954481474-4ms9ovnso2i99gugmi42nnv2th2abn49.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
